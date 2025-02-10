@@ -1,0 +1,4 @@
+-Aggregated Data from different sources of top investors and their investment
+-Show investment from top investments from year 2022 to 2024
+-Includes data of VC's,Sector,Rounds,Sum amount and investment by rounds
+-Visualization usnig charts,graphs and tables to get analyzed report
